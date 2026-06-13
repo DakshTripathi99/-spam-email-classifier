@@ -1,3 +1,5 @@
+#Built as part of hands-on exploration of applied NLP and ML systems
+
 # Spam Email Classifier using Machine Learning
 
 A machine learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using classic NLP techniques and supervised learning algorithms.
