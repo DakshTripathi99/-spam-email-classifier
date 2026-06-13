@@ -1,0 +1,13 @@
+SMS Spam Collection Dataset
+
+Source: UCI Machine Learning Repository
+Link: https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+
+Alternative (Kaggle):
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+Instructions:
+1. Download the dataset (CSV format).
+2. Rename the file to "spam.csv".
+3. Ensure it has two relevant columns: "label" (spam/ham) and "message" (SMS text).
+4. Place "spam.csv" in the root directory of this project before running model.py.
