@@ -119,4 +119,23 @@ The script will output:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+spam-email-classifier/
+
+│
+├── README.md          # Project documentation
+├── model.py            # Main ML pipeline
+├── requirements.txt    # Project dependencies
+└── dataset_link.txt     # Dataset source link
+---
+
+## Future Improvements
+
+- Add a Streamlit/Flask web app for real-time message prediction
+- Experiment with deep learning models (LSTM, BERT)
+
+---
+
+## License
+
+This project is open-source and available for educational purposes.
